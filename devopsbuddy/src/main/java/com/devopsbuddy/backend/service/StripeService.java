@@ -12,7 +12,7 @@ import org.springframework.stereotype.Service;
 import java.util.Map;
 
 /**
- * Created by tedonema on 13/05/2016.
+ * Created by akash on 13/05/2016.
  */
 @Service
 public class StripeService {

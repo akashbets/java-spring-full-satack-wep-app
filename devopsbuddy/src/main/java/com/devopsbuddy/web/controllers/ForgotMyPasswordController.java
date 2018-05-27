@@ -28,7 +28,7 @@ import java.time.LocalDateTime;
 import java.util.Locale;
 
 /**
- * Created by tedonema on 13/04/2016.
+ * Created by akash on 13/04/2016.
  */
 @Controller
 public class ForgotMyPasswordController {

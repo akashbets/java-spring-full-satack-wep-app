@@ -9,7 +9,7 @@ import org.springframework.stereotype.Repository;
 import org.springframework.transaction.annotation.Transactional;
 
 /**
- * Created by tedonema on 29/03/2016.
+ * Created by akash on 29/03/2016.
  */
 @Repository
 @Transactional(readOnly = true)

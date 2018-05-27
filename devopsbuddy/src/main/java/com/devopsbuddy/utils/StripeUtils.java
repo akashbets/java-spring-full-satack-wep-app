@@ -6,7 +6,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * Created by tedonema on 13/05/2016.
+ * Created by akash on 13/05/2016.
  */
 public class StripeUtils {
 

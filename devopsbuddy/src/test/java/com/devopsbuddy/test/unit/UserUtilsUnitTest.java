@@ -14,7 +14,7 @@ import uk.co.jemos.podam.api.PodamFactoryImpl;
 import java.util.UUID;
 
 /**
- * Created by tedonema on 15/04/2016.
+ * Created by akash on 15/04/2016.
  */
 public class UserUtilsUnitTest {
 

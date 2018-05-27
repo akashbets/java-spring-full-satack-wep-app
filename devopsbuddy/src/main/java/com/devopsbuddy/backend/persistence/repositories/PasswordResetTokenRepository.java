@@ -8,7 +8,7 @@ import org.springframework.stereotype.Repository;
 import java.util.Set;
 
 /**
- * Created by tedonema on 10/04/2016.
+ * Created by akash on 10/04/2016.
  */
 @Repository
 public interface PasswordResetTokenRepository extends CrudRepository<PasswordResetToken, Long> {

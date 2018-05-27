@@ -7,7 +7,7 @@ import org.springframework.mail.SimpleMailMessage;
 /**
  * Mock implementation of an email service.
  *
- * Created by tedonema on 22/03/2016.
+ * Created by akash on 22/03/2016.
  */
 public class MockEmailService extends AbstractEmailService {
 

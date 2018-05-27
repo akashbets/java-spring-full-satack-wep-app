@@ -13,7 +13,7 @@ import static org.hamcrest.MatcherAssert.assertThat;
 import static org.hamcrest.core.Is.is;
 
 /**
- * Created by tedonema on 13/05/2016.
+ * Created by akash on 13/05/2016.
  */
 public class StripeUtilsUnitTest {
 

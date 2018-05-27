@@ -1,7 +1,7 @@
 package com.devopsbuddy.web.domain.frontend;
 
 /**
- * Created by tedonema on 23/04/2016.
+ * Created by akash on 23/04/2016.
  */
 
 import org.hibernate.validator.constraints.Email;
@@ -12,7 +12,7 @@ import java.io.Serializable;
 /**
  * Contains basic account information that users have filled in the signup form.
  *
- * Created by tedonema on 23/04/2016.
+ * Created by akash on 23/04/2016.
  */
 public class BasicAccountPayload implements Serializable {
 

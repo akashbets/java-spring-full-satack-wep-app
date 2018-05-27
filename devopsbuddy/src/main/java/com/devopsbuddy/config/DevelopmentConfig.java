@@ -11,7 +11,7 @@ import org.springframework.context.annotation.Profile;
 import org.springframework.context.annotation.PropertySource;
 
 /**
- * Created by tedonema on 21/03/2016.
+ * Created by akash on 21/03/2016.
  */
 @Configuration
 @Profile("dev")

@@ -14,7 +14,7 @@ import org.springframework.data.jpa.repository.config.EnableJpaRepositories;
 import org.springframework.transaction.annotation.EnableTransactionManagement;
 
 /**
- * Created by tedonema on 30/03/2016.
+ * Created by akash on 30/03/2016.
  */
 @Configuration
 @EnableJpaRepositories(basePackages = "com.devopsbuddy.backend.persistence.repositories")

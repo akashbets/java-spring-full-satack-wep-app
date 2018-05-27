@@ -5,7 +5,7 @@ import org.springframework.mail.SimpleMailMessage;
 
 /**
  * Contract for email service.
- * Created by tedonema on 22/03/2016.
+ * Created by akash on 22/03/2016.
  */
 public interface EmailService {
 

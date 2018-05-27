@@ -4,7 +4,7 @@ import javax.persistence.*;
 import java.io.Serializable;
 
 /**
- * Created by tedonema on 28/03/2016.
+ * Created by akash on 28/03/2016.
  */
 @Entity
 @Table(name = "user_role")
